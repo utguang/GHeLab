@@ -62,7 +62,7 @@ format:
 <https://github.com/utguang>
 
 :::: pub-entry
-![](docs/docs/covers/Fig 6.png){alt="Nature Communications Cover"}
+![](docs/docs/covers/Fig%206.png){alt="Nature Communications Cover"}
 
 ::: pub-text
 <strong>Arbuscular mycorrhizal fungi enhance nitrate ammonification in hyphosphere soil</strong><br>
@@ -84,13 +84,13 @@ Ruotong Zhao (equal contribution), <u>Guang He (equal contribution)</u>, Dapu Zh
 ::::
 
 :::: pub-entry
-![](docs/docs/covers/Guang-2024-nature.png){alt="Nature News and Views Cover"}
+![](pdfs/Covers/He-2024-N-news.png){alt="Nature News and Views Cover"}
 
 ::: pub-text
 <strong>Nitrogen-hungry bacteria added to farm soil curb greenhouse-gas emissions</strong><br>
 
 <u>Guang He</u> and Frank E. Löffler**.**\
-<strong>Nature</strong>, News & Views, 2024. ([📄 PDF](docs/Publication_PDF/He-2024-Nitrogen-hungry%20bacteria%20added%20to%20farm.pdf))</a>
+<strong>Nature</strong>, News & Views, 2024. ([📄 PDF](https://rdcu.be/dKxi3))</a>
 :::
 ::::
 
