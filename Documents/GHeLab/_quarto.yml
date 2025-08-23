@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Dr. Guang He"
-  site-url: https://yourdomain.com
+  site-url: https://utguang.github.io/GHeLab
   navbar:
     pinned: true
     left:
