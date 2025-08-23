@@ -1,1 +1,1 @@
-Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://utguang.github.io/GHeLab/sitemap.xml
