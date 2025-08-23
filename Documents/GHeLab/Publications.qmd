@@ -38,7 +38,7 @@ format:
 # 
 
 :::: pub-entry
-![](docs/docs/covers/He-2025-Nature.png){alt="Nature Communications Cover"}
+![](pdfs/Covers/He-2025-N-article.png){alt="Nature Communications Cover"}
 
 ::: pub-text
 <strong>A novel bacterial protein family that catalyses nitrous oxide reduction</strong><br>
@@ -49,7 +49,7 @@ format:
 ::::
 
 :::: pub-entry
-![](docs/docs/covers/He-2025-Nature-RB.png){alt="Nature Communications Cover"}
+![](pdfs/Covers/He-2025-N-news.png){alt="Nature Communications Cover"}
 
 ::: pub-text
 <strong>The diversity of microbial enzymes that turn a pollutant into an inert gas</strong><br>
@@ -62,7 +62,7 @@ format:
 <https://github.com/utguang>
 
 :::: pub-entry
-![](docs/docs/covers/Fig%206.png){alt="Nature Communications Cover"}
+![](pdfs/Covers/Fig 6-01.png){alt="Nature Communications Cover"}
 
 ::: pub-text
 <strong>Arbuscular mycorrhizal fungi enhance nitrate ammonification in hyphosphere soil</strong><br>
@@ -73,7 +73,7 @@ Ruotong Zhao (equal contribution), <u>Guang He (equal contribution)</u>, Dapu Zh
 ::::
 
 :::: pub-entry
-![](docs/docs/covers/Guang-2024-nc.png){alt="Nature Communications Cover"}
+![](pdfs/Covers/He-2024-NC.png){alt="Nature Communications Cover"}
 
 ::: pub-text
 <strong>Sustained bacterial N<sub>2</sub>O reduction at acidic pH</strong><br>
@@ -97,7 +97,7 @@ Ruotong Zhao (equal contribution), <u>Guang He (equal contribution)</u>, Dapu Zh
 ## Contributing papers
 
 :::: pub-entry
-![](docs/docs/covers/zhu-2025.png){alt="Nature News and Views Cover"}
+![](pdfs/Covers/Zhu-2025-NREE.png){alt="Nature News and Views Cover"}
 
 ::: pub-text
 <strong>Nitrous oxide sources, mechanisms and mitigation</strong><br>
@@ -108,7 +108,7 @@ Guibing Zhu, Hao Shi, Lei Zhong**,** <u>Guang He</u>, Baozhan Wang, Jun Shan, Pi
 ::::
 
 :::: pub-entry
-![](docs/docs/covers/YC-2024-ISME%20Commons.png){alt="Nature News and Views Cover"}
+![](pdfs/Covers/Sun-2024-ISME commons.png){alt="Nature News and Views Cover"}
 
 ::: pub-text
 <strong>pH selects for distinct N~2~O-reducing microbiomes in tropical soil microcosms</strong><br>
@@ -119,7 +119,7 @@ Yanchen Sun, Yongchao Yin, <u>Guang He</u>, Gyuhyon Cha, Héctor L Ayala-del-Rí
 ::::
 
 :::: pub-entry
-![](docs/docs/covers/Gao-2024-EST.png){alt="Nature News and Views Cover"}
+![](pdfs/Covers/Chen-2024-EST.png){alt="Nature News and Views Cover"}
 
 ::: pub-text
 <strong>Natural attenuation potential of vinyl chloride and butyl acrylate released in the East Palestine, Ohio train derailment accident.</strong><br>
@@ -130,7 +130,7 @@ Gao Chen, Sam Rosolina, Elizabeth Padilla-Crespo, <u>Guang He</u>, Qiao Chen, An
 ::::
 
 :::: pub-entry
-![](docs/docs/covers/Xie-2023-EST.png){alt="Nature News and Views Cover"}
+![](pdfs/Covers/Xie-2023-EST.png){alt="Nature News and Views Cover"}
 
 ::: pub-text
 <strong>Genome-wide expression analysis unravels fluoroalkane metabolism in <em>*Pseudomonas*</em> sp. strain 273</strong><br>
@@ -141,7 +141,7 @@ Yongchao Xie, Diana Ramirez, Gao Chen, <u>Guang He</u>, Yanchen Sun, Fadime Kara
 ::::
 
 :::: pub-entry
-![](docs/docs/covers/Xia-2023-Frontiers.png){alt="Nature News and Views Cover"}
+![](pdfs/Covers/Li-2023-Frontier.png){alt="Nature News and Views Cover"}
 
 ::: pub-text
 <strong>Arbuscular mycorrhizal fungi reduce N<sub>2</sub>O emissions from degraded residue patches</strong><br>
