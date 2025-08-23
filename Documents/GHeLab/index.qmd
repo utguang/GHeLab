@@ -1,0 +1,87 @@
+---
+title: "Welcome"
+page-layout: full
+format:
+  html:
+    toc: false
+---
+
+::::: {style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-top: 2rem;"}
+<!-- LEFT COLUMN -->
+
+::: {style="flex: 1; min-width: 250px; text-align: center;"}
+```{=html}
+<img src="images/guang_he.JPG" 
+       alt="Guang He" 
+       style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%; box-shadow: 0 2px 8px rgba(0,0,0,0.15); margin-bottom: 1rem;" />
+```
+
+<h2 style="margin-bottom: 0.25rem;">
+
+Guang He, Ph.D.<br>
+
+</h2>
+
+<p style="font-size: 1.05rem;">
+
+Postdoctoral Research Associate\
+<br>University of Tennessee, Knoxville
+
+</p>
+
+<p>📧 ghe3\@utk.edu\
+<br>🌐 <a href="https://scholar.google.com/citations?user=zgw0g40AAAAJ&hl=en">Google Scholar</a> \| <a href="https://www.researchgate.net/profile/Guang-He-6">ResearchGate</a> \| <a href="https://orcid.org/0000-0003-0061-1373">ORCID</a></p>
+
+<em>"Persist, insist, and then make it succeed"</em>
+:::
+
+<!-- RIGHT COLUMN -->
+
+::: {style="flex: 2; min-width: 300px; font-size: 1.05rem; line-height: 1.6;"}
+### About Me
+
+I was born into a working-class family and grew up in a free, supportive environment. Since 2017, I have pursued environmental soil microbiology with a focus on microbial processes regulating greenhouse gas fluxes across diverse ecosystems. My research integrates microbial cultivation, genome-resolved metagenomics, and genome-scale metabolic modeling to investigate novel microbial N<sub>2</sub>O sinks.
+
+I am currently a postdoctoral research associate in the [Löffler Lab](https://loefflerlab.utk.edu), where I study the physiology and genomics of N<sub>2</sub>O-reducing bacteria, with implications for climate-smart agriculture and biogeochemical cycling. <br>
+
+<strong><u>I am always open to collaborative opportunities and welcome connections with researchers interested in microbial physiology, environmental microbiology, and greenhouse gas mitigation.</u></strong>
+
+<details>
+
+<summary style="color: black;">
+
+<strong>Education（教育背景）</strong>
+
+</summary>
+
+2024–present, Postdoctoral Research Associate (博士后研究助理), <a href="https://loefflerlab.utk.edu" target="_blank">Löffler Lab</a>, University of Tennessee, U.S.\
+2019–2023, Ph.D., University of Tennessee (田纳西大学), U.S, supervised by <a href="https://loefflerlab.utk.edu" target="_blank">Prof. Frank E. Löffler</a>\
+2017–2019, Master, China Agricultural University (中国农业大学), supervised by <a href="https://faculty.cau.edu.cn/zjl/" target="_blank">Prof. Junling Zhang</a>\
+2013–2017, Bachelor, Hunan Agricultural University (湖南农业大学), China
+
+</details>
+
+------------------------------------------------------------------------
+
+### Research Focus
+
+-   Microbial N<sub>2</sub>O sinks in terrestrial and aquatic ecosystems\
+-   Cultivation of fastidious microorganisms\
+-   Denitrification and respiratory versatility in soil bacteria\
+-   Synthetic microbiomes for bioaugmentation in regenerative agriculture
+
+------------------------------------------------------------------------
+
+### News & Updates
+
+-   🧪 My leading paper — **A novel bacterial protein family catalyzing nitrous oxide reduction** — is now published in Nature, and highlighted in Research Briefing (2025, August).\
+
+-   🌍 A collaborating review article "**Nitrous oxide sources, mechanisms and mitigation**" is now published in Nature Reviews Earth & Environment (2025, August).\
+
+-   🗞 Invited contribution to *Nature* News & Views (2024, May) — Nitrogen-hungry bacteria curb emissions.\
+
+-   🧬 My first leading paper — Sustained bacterial N₂O reduction at acidic pH — is now published Nature Communications (2024, May).\
+
+-   🥳 Ph.D. awarded in December 2023
+:::
+:::::

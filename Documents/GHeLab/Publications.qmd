@@ -1,0 +1,152 @@
+## 
+
+---
+title: "Publications"
+format:
+  html:
+    toc: false
+    page-layout: full
+---
+
+```{=html}
+<style>
+.pub-entry {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 2rem;
+}
+.pub-entry img {
+  width: 500px;
+  height: auto;
+  margin-right: 5rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  border-radius: 6px;
+}
+.pub-text {
+  flex: 1;
+  font-size: 1.5rem;
+}
+.pub-text a {
+  text-decoration: none;
+  color: #0066cc;
+}
+</style>
+```
+
+# Leading author publications
+
+# 
+
+:::: pub-entry
+![](docs/docs/covers/He-2025-Nature.png){alt="Nature Communications Cover"}
+
+::: pub-text
+<strong>A novel bacterial protein family that catalyses nitrous oxide reduction</strong><br>
+
+<u>Guang He</u>, Weijiao Wang, Gao Chen, Yongchao Xie, Jerry M. Parks, Megan E. Davin, Robert L. Hettich, Konstantinos T. Konstantinidis, and Frank E. Löffler.\
+<strong>Nature</strong>, 2025. ([📄 PDF](https://rdcu.be/eBAzy){target="_blank"})</a>
+:::
+::::
+
+:::: pub-entry
+![](docs/docs/covers/He-2025-Nature-RB.png){alt="Nature Communications Cover"}
+
+::: pub-text
+<strong>The diversity of microbial enzymes that turn a pollutant into an inert gas</strong><br>
+
+<u>Guang He</u> and Frank E. Löffler.\
+<strong>Nature</strong>, 2025. ([📄 PDF](1){target="_blank"})</a> Research Briefing in press.
+:::
+::::
+
+<https://github.com/utguang>
+
+:::: pub-entry
+![](docs/docs/covers/Fig 6.png){alt="Nature Communications Cover"}
+
+::: pub-text
+<strong>Arbuscular mycorrhizal fungi enhance nitrate ammonification in hyphosphere soil</strong><br>
+
+Ruotong Zhao (equal contribution), <u>Guang He (equal contribution)</u>, Dapu Zhou, Xia Li (corresponding author), Thomas Kuyper, Fu-suo Zhang, and Junling Zhang (corresponding author).\
+<strong>New Phytologists</strong>, 2025. ([📄 PDF](1){target="_blank"})</a> Provisionally accepted.
+:::
+::::
+
+:::: pub-entry
+![](docs/docs/covers/Guang-2024-nc.png){alt="Nature Communications Cover"}
+
+::: pub-text
+<strong>Sustained bacterial N<sub>2</sub>O reduction at acidic pH</strong><br>
+
+<u>Guang He</u>, Gao Chen, Yongchao Xie, Cynthia M. Swift, Diana Ramirez, Gyuhyon Cha, Konstantinos T. Konstantinidis, Mark Radosevich, and Frank E. Löffler.\
+<strong>Nature Communications</strong>, 2024. ([📄 PDF](docs/Publication_PDF/He-2024-NC.pdf){target="_blank"})</a>
+:::
+::::
+
+:::: pub-entry
+![](docs/docs/covers/Guang-2024-nature.png){alt="Nature News and Views Cover"}
+
+::: pub-text
+<strong>Nitrogen-hungry bacteria added to farm soil curb greenhouse-gas emissions</strong><br>
+
+<u>Guang He</u> and Frank E. Löffler**.**\
+<strong>Nature</strong>, News & Views, 2024. ([📄 PDF](docs/Publication_PDF/He-2024-Nitrogen-hungry%20bacteria%20added%20to%20farm.pdf))</a>
+:::
+::::
+
+## Contributing papers
+
+:::: pub-entry
+![](docs/docs/covers/zhu-2025.png){alt="Nature News and Views Cover"}
+
+::: pub-text
+<strong>Nitrous oxide sources, mechanisms and mitigation</strong><br>
+
+Guibing Zhu, Hao Shi, Lei Zhong**,** <u>Guang He</u>, Baozhan Wang, Jun Shan, Ping Han, Tongxu Liu, Shanyun Wang, Chunlei Liu, Nan Zhang, Liping Jiang, Longbin Yu, Chunhui Zhan, Ziyang Tang, Teng Wen, Bin Ma, Xiaoxuan Su, Shujun Zhang, Jinbo Zhang, Hongjie Di, Lijun Hou, Alexander H. Krichels, Mark Trimmer, Mike S.M. Jetten, Yongzhen Peng, Frank E. Löffler, Hanqing Tian and Yongguan Zhu.\
+<strong>Nature Reviews Earth & Environment</strong>, 2025. ([PDF](docs/Publication_PDF/43017_2025_707_Author(1).pdf){target="_blank"}) </a>
+:::
+::::
+
+:::: pub-entry
+![](docs/docs/covers/YC-2024-ISME%20Commons.png){alt="Nature News and Views Cover"}
+
+::: pub-text
+<strong>pH selects for distinct N~2~O-reducing microbiomes in tropical soil microcosms</strong><br>
+
+Yanchen Sun, Yongchao Yin, <u>Guang He</u>, Gyuhyon Cha, Héctor L Ayala-del-Río, Grizelle González, Konstantinos T Konstantinidis and Frank E Löffler.\
+<strong>ISME communications</strong>, 2024. ([📄 PDF](docs/Publication_PDF/Sun-2024.pdf)) </a>
+:::
+::::
+
+:::: pub-entry
+![](docs/docs/covers/Gao-2024-EST.png){alt="Nature News and Views Cover"}
+
+::: pub-text
+<strong>Natural attenuation potential of vinyl chloride and butyl acrylate released in the East Palestine, Ohio train derailment accident.</strong><br>
+
+Gao Chen, Sam Rosolina, Elizabeth Padilla-Crespo, <u>Guang He</u>, Qiao Chen, Ana Arosemena, Bryan E. Rosado-Maldonado, Cynthia M. Swift, Paula Belmont Coelho, Andrew J. Whelton, Dora Taggart and Frank E. Löffler.\
+<strong>Environmental Science & Technology</strong>, 2024. ([📄 PDF](docs/Publication_PDF/Chen-2024.pdf))</a>
+:::
+::::
+
+:::: pub-entry
+![](docs/docs/covers/Xie-2023-EST.png){alt="Nature News and Views Cover"}
+
+::: pub-text
+<strong>Genome-wide expression analysis unravels fluoroalkane metabolism in <em>*Pseudomonas*</em> sp. strain 273</strong><br>
+
+Yongchao Xie, Diana Ramirez, Gao Chen, <u>Guang He</u>, Yanchen Sun, Fadime Kara Murdoch, and Frank E. Löffler.\
+<strong>Environmental Science & Technology</strong>, 2023. ([📄 PDF](docs/Publication_PDF/Xie-2023-Genome-wide%20expression%20analysis%20unrav.pdf))</a>
+:::
+::::
+
+:::: pub-entry
+![](docs/docs/covers/Xia-2023-Frontiers.png){alt="Nature News and Views Cover"}
+
+::: pub-text
+<strong>Arbuscular mycorrhizal fungi reduce N<sub>2</sub>O emissions from degraded residue patches</strong><br>
+
+Xia Li, <u>Guang He</u>, Dandan Li, Shuikuan Bei, Dongdong Luan, Xinzhan Sun, Gaiqiang Yang, Lijuan Huo, Lina Zhen, and Ruotong Zhao.\
+<strong>Frontiers in Ecology & Evolution</strong>, 2023. ([📄 PDF](docs/Publication_PDF/Li-2023.pdf))</a>
+:::
+::::

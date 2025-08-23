@@ -1,0 +1,54 @@
+---
+title: "Members"
+format:
+  html:
+    toc: true
+    page-layout: full
+---
+
+:::::: {style="display: flex; flex-wrap: nowrap; gap: 2rem; align-items: flex-start; justify-content: flex-start;"}
+<!-- LEFT COLUMN -->
+
+::: {style="flex: 0 0 220px; text-align: center;"}
+<h2 style="font-size: 1.0rem; font-weight: bold; margin-top: 0rem;">
+
+Postdoctoral researcher
+
+</h2>
+
+```{=html}
+<img src="images/guang_he.JPG" 
+       alt="Guang He" 
+       style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%; box-shadow: 0 2px 8px rgba(0,0,0,0.1); margin-bottom: 1rem;" />
+```
+
+<h3 style="margin-bottom: 0.5rem;">
+
+Guang He, Ph.D.
+
+</h3>
+
+<p style="margin: 0;">
+
+</p>
+:::
+
+<!-- RIGHT COLUMN -->
+
+:::: {style="flex: 1; font-size: 1.05rem; line-height: 1.6; white-space: normal;"}
+### 
+
+::: {style="flex: 1; font-size: 1.05rem; line-height: 1.6; padding-top: 3rem;"}
+:::
+
+### Education（教育背景）
+
+<p>2024–present, Postdoctoral Research Associate（博士后研究助理）, <a href="https://loefflerlab.utk.edu" target="_blank">Löffler Lab</a>, University of Tennessee, U.S.</p>
+
+<p>2019–2023, Ph.D., University of Tennessee（田纳西大学）, U.S., supervised by <a href="https://loefflerlab.utk.edu" target="_blank">Prof. Frank E. Löffler</a></p>
+
+<p>2017–2019, Master, China Agricultural University（中国农业大学）, China, supervised by <a href="https://faculty.cau.edu.cn/zjl/" target="_blank">Prof. Junling Zhang (张俊伶教授）</a></p>
+
+<p>2013–2017, Bachelor, Hunan Agricultural University（湖南农业大学）, China</p>
+::::
+::::::

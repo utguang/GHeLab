@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dr. Guang He"
+  site-url: https://yourdomain.com
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Team.qmd
+        text: Team
+      - href: Publications.qmd
+        text: Publications
+        
+format:
+  html:
+    page-layout: full
+    theme: 
+      - cosmo
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+    css: styles.css
+    grid:
+      sidebar-width: 300px
+      body-width: 1200px
+      margin-width: 100px
+      gutter-width: 1.5rem
+
+editor: visual
