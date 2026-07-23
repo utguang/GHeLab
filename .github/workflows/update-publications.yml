@@ -1,0 +1,46 @@
+name: Update publications from Google Scholar
+
+on:
+  schedule:
+    # 09:17 Asia/Shanghai every day.
+    - cron: "17 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-publications
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out website
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install parser
+        run: python -m pip install --disable-pip-version-check requests beautifulsoup4
+
+      - name: Synchronize publications
+        run: python scripts/update_publications.py
+
+      - name: Publish changes when new papers are found
+        run: |
+          if git diff --quiet -- Publications.html; then
+            echo "No publication changes detected."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Publications.html
+          git commit -m "Automatically update publications"
+          git push origin gh-pages
